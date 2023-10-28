@@ -558,12 +558,16 @@ video {
   min-height: 100vh;
 }
 
-.max-w-\[900px\]{
-  max-width: 900px;
+.min-h-\[500px\]{
+  min-height: 500px;
 }
 
 .max-w-\[950px\]{
   max-width: 950px;
+}
+
+.max-w-\[900px\]{
+  max-width: 900px;
 }
 
 .place-items-center{
